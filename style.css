@@ -1,0 +1,20 @@
+div.color-blue > p {
+  background-color: bisque;
+  color: blue;
+}
+
+div > p.color-black{
+  color: black;
+}
+
+div {
+  color: red;
+}
+
+p {
+  color: green;
+}
+
+#color-white {
+  color: white;
+}
